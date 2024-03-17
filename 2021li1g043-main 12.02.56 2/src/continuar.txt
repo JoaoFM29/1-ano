@@ -1,0 +1,6 @@
+       
+       
+P     C
+X    XX
+X<  XXX
+XXXXXXX
